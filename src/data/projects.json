@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Ecommerce static website",
+    "imageSrc": "projects/Ecommerce.png",
+    "description": "A responsive ecommerce front-end website built using React, HTML, CSS, and JavaScript. It showcases products, features a modern UI, and ensures a smooth browsing experience for users.",
+    "skills": ["React", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
+    "demo": "https://ecommerce-static-website-using-reactjs-2slhbjvmf.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/Ecommerce-static-website-using-Reactjs"
+  },
+  {
+    "title": "SDG4 Quality Education Website",
+    "imageSrc": "projects/SDG-4.png",
+    "description": "An informational website dedicated to UN SDG 4 (Quality Education), built with HTML, CSS, and JavaScript. It emphasizes accessibility, interactive design, and spreading awareness about inclusive education.",
+    "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
+    "demo": "https://sdg4-quality-education-website.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/sdg4-quality-education-website"
+  },
+  {
+    "title": "Goa Heritage Preservation",
+    "imageSrc": "projects/Goa-Heritage.png",
+    "description": "A cultural heritage website created with HTML, CSS, and JavaScript to highlight Goa’s traditions, history, and architecture while promoting preservation and awareness.",
+    "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
+    "demo": "https://goa-heritage-preservation-initiativ.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/Goa-Heritage-Preservation-Initiative"
+  },
+  {
+    "title": "Login Registration System",
+    "imageSrc": "projects/Login-Registration.png",
+    "description": "A secure login and registration system built with PHP and MySQL. It allows users to create accounts, authenticate credentials, and manage access with simple database integration.",
+    "skills": ["HTML", "PHP", "SQL", "Git", "GitHub"],
+    "source": "https://github.com/vaishnavi-parodkar/login-registration-php-mysql"
+  },
+  {
+    "title": "Car Rental System",
+    "imageSrc": "projects/CarRental.png",
+    "description": "A C++ console-based application for managing car rentals. Users can view available cars, book rentals, and return vehicles while applying object-oriented programming principles.",
+    "skills": ["C++", "Git", "GitHub"],
+    "source": "https://github.com/vaishnavi-parodkar/Car-rental-system-using-cpp"
+  },
+  {
+    "title": "Survey Form",
+    "imageSrc": "projects/SurveyForm.png",
+    "description": "A responsive survey form built with HTML and CSS to collect user feedback efficiently. It focuses on clean design, structured form elements, and accessibility.",
+    "skills": ["HTML", "CSS", "Git", "GitHub"],
+    "demo": "https://survey-form-pearl-omega.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/Survey-Form"
+  }
+]

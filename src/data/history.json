@@ -1,0 +1,41 @@
+[
+  {
+    "role": "AI & ML Intern",
+    "organisation": "Eduskills",
+    "startDate": "Apr 2024",
+    "endDate": "Jun 2024",
+    "summary": "Completed a comprehensive AI & ML internship under the India Edu Program in collaboration with Google for Developers, gaining hands-on experience in implementing machine learning models and real-world AI applications.",
+    "imageSrc": "ai-ml-internship.png",
+    "experiences": [
+      "Worked on machine learning tasks and projects",
+      "Applied AI concepts to practical problems",
+      "Enhanced programming and analytical skills"
+    ]
+  },
+  {
+    "role": "Participant",
+    "organisation": "Goldman Sachs Job Simulation",
+    "startDate": "Jan 2025",
+    "endDate": "Jan 2025",
+    "summary": "Participated in the Goldman Sachs virtual job simulation, completing tasks reflecting real-world technical and analytical challenges, improving problem-solving and industry readiness.",
+    "imageSrc": "goldman-sachs.png",
+    "experiences": [
+      "Completed simulation tasks mirroring real workplace scenarios",
+      "Enhanced problem-solving and analytical abilities"
+    ]
+  },
+  {
+    "role": "Front-end developer",
+    "organisation": "Lenovo LEAP Program",
+    "startDate": "Jun 2025",
+    "endDate": "Aug 2025",
+    "summary": "Engaged in the Lenovo LEAP program, focusing on Frontend development, problem-solving, and innovation-driven projects.",
+    "imageSrc": "lenovo-leap.png",
+    "experiences": [
+    "Built real-world web applications",
+    "Strengthened frontend development skills",
+    "Learned via hands-on projects and masterclasses",
+    "Gained exposure to clean coding practices"
+  ]
+  }
+]
