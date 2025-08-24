@@ -31,8 +31,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3><br/>
               <p>
-                Designed and developed projects such as a <b>Survey Form</b> 
-                and <b>Parking Website</b>, ensuring usability, visual appeal, 
+                Designed and developed projects such as a <b>Survey Form </b> 
+                 and <b>Parking Website</b>, ensuring usability, visual appeal, 
                 and adherence to modern design standards.
               </p>
             </div>

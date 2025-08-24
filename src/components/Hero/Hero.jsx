@@ -10,7 +10,7 @@ export const Hero = () => {
       
         <h1 className={styles.title}>Hi, I'm Vaishnavi Parodkar</h1>
         <p className={styles.description}>
-          👋 I’m a frontend developer passionate about building modern, responsive, and user-friendly web applications with React and JavaScript.
+          👋 I'm a frontend developer passionate about building modern, responsive, and user-friendly web applications with React and JavaScript.
         </p>
         <a href="mailto:vaishnaviparodkar@gmail.com" className={styles.contactBtn}>
           Contact Me
