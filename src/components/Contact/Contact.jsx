@@ -21,13 +21,16 @@ export const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")} alt="GitHub" />
         </a>
         <a href="https://twitter.com/Vaishnavii_11" target="_blank" rel="noreferrer">
-          <img src={getImageUrl("contact/twitterIcon.png")} alt="Twitter" />
+          <img src={getImageUrl("contact/twitter.png")} alt="Twitter" />
         </a>
         <a href="https://medium.com/@parodkarvaishnavi" target="_blank" rel="noreferrer">
-          <img src={getImageUrl("contact/MediumIcon.png")} alt="Medium" />
+          <img src={getImageUrl("contact/medium.png")} alt="Medium" />
         </a>
         <a href="https://leetcode.com/u/parodkarvaishnavi/" target="_blank" rel="noreferrer">
-          <img src={getImageUrl("contact/LeetCodeIcon.png")} alt="LeetCode" />
+          <img src={getImageUrl("contact/leetcode.png")} alt="LeetCode" />
+        </a>
+        <a href="https://www.hackerrank.com/profile/vaishanvi_1112" target="_blank" rel="noreferrer">
+          <img src={getImageUrl("contact/Hackerrank.jpeg")} alt="LeetCode" />
         </a>
       </div>
     </footer>

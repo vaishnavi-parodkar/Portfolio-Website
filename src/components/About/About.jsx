@@ -7,11 +7,7 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About Me</h2>
       <div className={styles.content}>
-        <img
-          src={getImageUrl("about/aboutImage.png")}
-          alt="Profile illustration"
-          className={styles.aboutImage}
-        />
+        
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img
@@ -43,8 +39,9 @@ export const About = () => {
           </li>
           <li className={styles.aboutItem}>
             <img
-              src={getImageUrl("about/dsaIcon.png")}
+              src={getImageUrl("about/problem-solving.png")}
               alt="Problem-solving icon"
+              style={{ width: "80px", height: "80px" }}
             />
             <div className={styles.aboutItemText}>
               <h3>Problem-Solving</h3><br/>
@@ -57,8 +54,9 @@ export const About = () => {
           </li>
           <li className={styles.aboutItem}>
             <img
-              src={getImageUrl("about/hackathonIcon.png")}
+              src={getImageUrl("about/career-aspiration.png")}
               alt="Career aspirations icon"
+              style={{ width: "80px", height: "80px" }}
             />
             <div className={styles.aboutItemText}>
               <h3>Career Aspirations</h3><br/>
