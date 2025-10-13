@@ -8,6 +8,22 @@
     "source": "https://github.com/vaishnavi-parodkar/Ecommerce-static-website-using-Reactjs"
   },
   {
+    "title": "Goa Heritage Preservation",
+    "imageSrc": "projects/Goa-Heritage.png",
+    "description": "A cultural heritage website created with HTML, CSS, and JavaScript to highlight Goa's traditions, history, and architecture while promoting preservation and awareness.",
+    "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
+    "demo": "https://goa-heritage-preservation-initiativ.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/Goa-Heritage-Preservation-Initiative"
+  },
+  {
+    "title": "TV Shows Website (Episolio)",
+    "imageSrc": "projects/TV-Shows-Website.png",
+    "description": "Episolio is a modern, responsive web application designed to explore and discover popular TV shows. Built using the Vite framework, this project aims to provide users with an intuitive interface to browse and learn about various television series.",
+    "skills": ["React", "CSS", "HTML", "JavaScript", "API", "Git", "GitHub"],
+    "demo": "https://tv-shows-website-ec7ctj8fx-vaishnavi-parodkars-projects.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/TV-Shows-Website"
+  },
+  {
     "title": "SDG4 Quality Education Website",
     "imageSrc": "projects/SDG-4.png",
     "description": "An informational website dedicated to UN SDG 4 (Quality Education), built with HTML, CSS, and JavaScript. It emphasizes accessibility, interactive design, and spreading awareness about inclusive education.",
@@ -16,19 +32,33 @@
     "source": "https://github.com/vaishnavi-parodkar/sdg4-quality-education-website"
   },
   {
-    "title": "Goa Heritage Preservation",
-    "imageSrc": "projects/Goa-Heritage.png",
-    "description": "A cultural heritage website created with HTML, CSS, and JavaScript to highlight Goa’s traditions, history, and architecture while promoting preservation and awareness.",
-    "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
-    "demo": "https://goa-heritage-preservation-initiativ.vercel.app/",
-    "source": "https://github.com/vaishnavi-parodkar/Goa-Heritage-Preservation-Initiative"
+    "title": "Survey Form",
+    "imageSrc": "projects/SurveyForm.png",
+    "description": "A responsive survey form built with HTML and CSS to collect user feedback efficiently. It focuses on clean design, structured form elements, and accessibility.",
+    "skills": ["HTML", "CSS", "Git", "GitHub"],
+    "demo": "https://survey-form-pearl-omega.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/Survey-Form"
+  },
+  {
+    "title": "Vault to Learn",
+    "imageSrc": "projects/Vault-to-Learn.png",
+    "description": "Vault-to-Learn is a web application that provides study resources such as notes and videos. It combines a simple, responsive frontend with a lightweight Node.js backend for serving resources efficiently.",
+    "skills": ["SQLite", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
+    "source": "https://github.com/vaishnavi-parodkar/Vault-to-Learn"
   },
   {
     "title": "Login Registration System",
     "imageSrc": "projects/Login-Registration.png",
     "description": "A secure login and registration system built with PHP and MySQL. It allows users to create accounts, authenticate credentials, and manage access with simple database integration.",
-    "skills": ["HTML", "PHP", "SQL", "Git", "GitHub"],
+    "skills": ["HTML", "CSS", "PHP", "SQL", "Git", "GitHub"],
     "source": "https://github.com/vaishnavi-parodkar/login-registration-php-mysql"
+  },
+  {
+    "title": "Internship Management System",
+    "imageSrc": "projects/Internship-management-system.png",
+    "description": "A web-based Internship Management System built with PHP and MySQL, designed to streamline internship operations by supporting three roles: Students, Admins, and Companies. Students can apply for internships, companies can post and manage internships, and admins can oversee the entire process.",
+    "skills": ["PHP", "HTML", "SQL", "CSS", "Git", "GitHub"],
+    "source": "https://github.com/vaishnavi-parodkar/Internship-management-system"
   },
   {
     "title": "Car Rental System",
@@ -36,13 +66,5 @@
     "description": "A C++ console-based application for managing car rentals. Users can view available cars, book rentals, and return vehicles while applying object-oriented programming principles.",
     "skills": ["C++", "Git", "GitHub"],
     "source": "https://github.com/vaishnavi-parodkar/Car-rental-system-using-cpp"
-  },
-  {
-    "title": "Survey Form",
-    "imageSrc": "projects/SurveyForm.png",
-    "description": "A responsive survey form built with HTML and CSS to collect user feedback efficiently. It focuses on clean design, structured form elements, and accessibility.",
-    "skills": ["HTML", "CSS", "Git", "GitHub"],
-    "demo": "https://survey-form-pearl-omega.vercel.app/",
-    "source": "https://github.com/vaishnavi-parodkar/Survey-Form"
   }
 ]
