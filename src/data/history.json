@@ -1,19 +1,33 @@
 [
   {
-    "role": "AI & ML Intern",
-    "organisation": "Eduskills",
-    "startDate": "Apr 2024",
-    "endDate": "Jun 2024",
-    "summary": "Completed a comprehensive AI & ML internship under the India Edu Program in collaboration with Google for Developers, gaining hands-on experience in implementing machine learning models and real-world AI applications.",
-    "imageSrc": "history/AICTE.png",
-    "experiences": [
-      "Worked on machine learning tasks and projects",
-      "Applied AI concepts to practical problems",
-      "Enhanced programming and analytical skills"
-    ]
-  },
-  
-  {
+  "role": "GirlScript Summer of Code (GSSoC)-Open Source Contributor",
+  "organisation": "GirlScript Foundation",
+  "startDate": "Oct 2025",
+  "endDate": "Present",
+  "summary": "Recently selected as a contributor for GirlScript Summer of Code 2025, actively preparing to contribute to impactful open-source projects and collaborate with the global developer community.",
+  "imageSrc": "history/GSSoC.png",
+  "experiences": [
+    "Selected as a contributor for GSSoC 2025",
+    "Exploring open-source repositories and contribution guidelines",
+    "Engaging with mentors and the open-source community",
+    "Planning to contribute to beginner-friendly and impactful projects"
+  ]
+},
+   {
+  "role": "Google Student Ambassador Intern - Campus Ambassador Program",
+  "organisation": "Ping Digital Broadcast Pvt. Ltd.",
+  "startDate": "Sep 2025",
+  "endDate": "Present",
+  "summary": "Represented the Google Gemini Student Ambassador Program by PiNG India, driving engagement through AI awareness and digital community initiatives.",
+  "imageSrc": "history/Google.png",
+  "experiences": [
+    "Promoted Google Gemini AI across campus networks",
+    "Encouraged peer participation through digital outreach",
+    "Supported engagement goals and community initiatives",
+    "Gained experience in online promotion and leadership"
+  ]
+},
+   {
     "role": "Front-end developer",
     "organisation": "Lenovo LEAP Program",
     "startDate": "Jun 2025",
@@ -26,5 +40,18 @@
     "Learned via hands-on projects and masterclasses",
     "Gained exposure to clean coding practices"
   ]
+  },
+  {
+    "role": "AI & ML Intern",
+    "organisation": "Eduskills",
+    "startDate": "Apr 2024",
+    "endDate": "Jun 2024",
+    "summary": "Completed a comprehensive AI & ML internship under the India Edu Program in collaboration with Google for Developers, gaining hands-on experience in implementing machine learning models and real-world AI applications.",
+    "imageSrc": "history/AICTE.png",
+    "experiences": [
+      "Worked on machine learning tasks and projects",
+      "Applied AI concepts to practical problems",
+      "Enhanced programming and analytical skills"
+    ]
   }
 ]
