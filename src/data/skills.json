@@ -16,16 +16,16 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "C",
-    "imageSrc": "skills/C.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
   },
   {
     "title": "C++",
     "imageSrc": "skills/C++.png"
   },
   {
-    "title": "Java",
-    "imageSrc": "skills/java.png"
+    "title": "MySQL",
+    "imageSrc": "skills/MySQL.png"
   },
   {
     "title": "git",
@@ -36,11 +36,39 @@
     "imageSrc": "skills/github.png"
   },
   {
+    "title": "C",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "php",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "JSON",
+    "imageSrc": "skills/json.png"
+  },
+   {
+    "title": "Markdown",
+    "imageSrc": "skills/markdown.png"
+  },
+  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   },
   {
     "title": "Postman",
     "imageSrc": "skills/Postman.png"
+  },
+  {
+    "title": "Netlify",
+    "imageSrc": "skills/Netlify.png"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.png"
+  },
+  {
+    "title": "xampp",
+    "imageSrc": "skills/xampp.png"
   }
 ]
