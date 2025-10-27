@@ -1,18 +1,4 @@
 [
-  {
-  "role": "GirlScript Summer of Code (GSSoC)-Open Source Contributor",
-  "organisation": "GirlScript Foundation",
-  "startDate": "Oct 2025",
-  "endDate": "Present",
-  "summary": "Recently selected as a contributor for GirlScript Summer of Code 2025, actively preparing to contribute to impactful open-source projects and collaborate with the global developer community.",
-  "imageSrc": "history/GSSoC.png",
-  "experiences": [
-    "Selected as a contributor for GSSoC 2025",
-    "Exploring open-source repositories and contribution guidelines",
-    "Engaging with mentors and the open-source community",
-    "Planning to contribute to beginner-friendly and impactful projects"
-  ]
-},
    {
   "role": "Google Student Ambassador Intern - Campus Ambassador Program",
   "organisation": "Ping Digital Broadcast Pvt. Ltd.",
@@ -25,6 +11,33 @@
     "Encouraged peer participation through digital outreach",
     "Supported engagement goals and community initiatives",
     "Gained experience in online promotion and leadership"
+  ]
+},
+{
+  "role": "Hacktoberfest 2025 - Open Source Contributor",
+  "organisation": "DigitalOcean, GitHub, and Dev Community",
+  "startDate": "Oct 2025",
+  "endDate": "Oct 2025",
+  "summary": "Contributed to Hacktoberfest 2025 by submitting accepted pull requests focused on algorithm visualization and creative CSS animations.",
+  "imageSrc": "history/hacktoberfest.png",
+  "experiences": [
+    "Contributed PRs to projects like AlgoVisualizer and You-Dont-Need-JavaScript",
+    "Developed Longest Subarray with Sum K, 3D Rotating Pyramid, and Animated Rainfall effects",
+    "Gained hands-on experience with open-source collaboration, pull requests, and code reviews"
+  ]
+},
+  {
+  "role": "GirlScript Summer of Code (GSSoC)-Open Source Contributor",
+  "organisation": "GirlScript Foundation",
+  "startDate": "Sep 2025",
+  "endDate": "Oct 2025",
+  "summary": "Recently selected as a contributor for GirlScript Summer of Code 2025, actively preparing to contribute to impactful open-source projects and collaborate with the global developer community.",
+  "imageSrc": "history/GSSoC.png",
+  "experiences": [
+    "Selected as a contributor for GSSoC 2025",
+    "Exploring open-source repositories and contribution guidelines",
+    "Engaging with mentors and the open-source community",
+    "Planning to contribute to beginner-friendly and impactful projects"
   ]
 },
    {
