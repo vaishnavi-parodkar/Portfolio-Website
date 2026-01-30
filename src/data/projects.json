@@ -1,11 +1,50 @@
 [
   {
+    "title": "TV Shows Website (Episolio)",
+    "imageSrc": "projects/TV-Shows-Website.png",
+    "description": "Episolio is a modern, responsive web application designed to explore and discover popular TV shows. Built using the Vite framework, this project aims to provide users with an intuitive interface to browse and learn about various television series.",
+    "skills": ["React", "CSS", "HTML", "JavaScript", "API", "Git", "GitHub"],
+    "demo": "https://tv-shows-website-ec7ctj8fx-vaishnavi-parodkars-projects.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/TV-Shows-Website"
+  },
+  {
+    "title": "Parking Lot Management",
+    "imageSrc": "projects/Parking-lot-management.png",
+    "description": "A Smart Parking Lot Management System built using React.js that allows users to book parking slots, make payments, and manage parking sessions, while admins can monitor occupancy, manage slots, and view payment analytics.",
+    "skills": ["React", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
+    "demo": "https://parking-lot-management-five.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/parking-lot-management"
+  },
+  {
+    "title": "Internship Management System",
+    "imageSrc": "projects/Internship-management-system.png",
+    "description": "A web-based Internship Management System built with PHP and MySQL, designed to streamline internship operations by supporting three roles: Students, Admins, and Companies. Students can apply for internships, companies can post and manage internships, and admins can oversee the entire process.",
+    "skills": ["PHP", "HTML", "SQL", "CSS", "Git", "GitHub"],
+    "source": "https://github.com/vaishnavi-parodkar/Internship-management-system"
+  },
+  {
     "title": "Ecommerce static website",
     "imageSrc": "projects/Ecommerce.png",
     "description": "A responsive ecommerce front-end website built using React, HTML, CSS, and JavaScript. It showcases products, features a modern UI, and ensures a smooth browsing experience for users.",
     "skills": ["React", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
     "demo": "https://ecommerce-static-website-using-reactjs-2slhbjvmf.vercel.app/",
     "source": "https://github.com/vaishnavi-parodkar/Ecommerce-static-website-using-Reactjs"
+  },
+   {
+    "title": "Expense Splitter",
+    "imageSrc": "projects/Expense-splitter.png",
+    "description": "A simple and interactive web app to help users split expenses fairly among friends, roommates, or groups. Built using HTML, CSS, and JavaScript, this app also includes dark mode, data persistence using LocalStorage, and a visual summary chart powered by Chart.js.",
+    "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
+    "demo": "https://expense-splitter-gamma.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/Expense-Splitter?tab=readme-ov-file"
+  },
+  {
+    "title": "To-do List React.js",
+    "imageSrc": "projects/to-do-list.png",
+    "description": "A simple and elegant To-Do List application built with React that helps users manage daily tasks efficiently. The app supports adding, deleting, reordering, and marking tasks as completed, with persistent storage using the browser's localStorage",
+    "skills": ["React", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
+    "demo": "https://to-do-list-reactjs-gules.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/To-do-list-Reactjs"
   },
   {
     "title": "Goa Heritage Preservation",
@@ -15,14 +54,7 @@
     "demo": "https://goa-heritage-preservation-initiativ.vercel.app/",
     "source": "https://github.com/vaishnavi-parodkar/Goa-Heritage-Preservation-Initiative"
   },
-  {
-    "title": "TV Shows Website (Episolio)",
-    "imageSrc": "projects/TV-Shows-Website.png",
-    "description": "Episolio is a modern, responsive web application designed to explore and discover popular TV shows. Built using the Vite framework, this project aims to provide users with an intuitive interface to browse and learn about various television series.",
-    "skills": ["React", "CSS", "HTML", "JavaScript", "API", "Git", "GitHub"],
-    "demo": "https://tv-shows-website-ec7ctj8fx-vaishnavi-parodkars-projects.vercel.app/",
-    "source": "https://github.com/vaishnavi-parodkar/TV-Shows-Website"
-  },
+  
   {
     "title": "SDG4 Quality Education Website",
     "imageSrc": "projects/SDG-4.png",
@@ -30,6 +62,13 @@
     "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
     "demo": "https://sdg4-quality-education-website.vercel.app/",
     "source": "https://github.com/vaishnavi-parodkar/sdg4-quality-education-website"
+  },
+   {
+    "title": "Vault to Learn",
+    "imageSrc": "projects/Vault-to-Learn.png",
+    "description": "Vault-to-Learn is a web application that provides study resources such as notes and videos. It combines a simple, responsive frontend with a lightweight Node.js backend for serving resources efficiently.",
+    "skills": ["SQLite", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
+    "source": "https://github.com/vaishnavi-parodkar/Vault-to-Learn"
   },
   {
     "title": "Survey Form",
@@ -40,25 +79,11 @@
     "source": "https://github.com/vaishnavi-parodkar/Survey-Form"
   },
   {
-    "title": "Vault to Learn",
-    "imageSrc": "projects/Vault-to-Learn.png",
-    "description": "Vault-to-Learn is a web application that provides study resources such as notes and videos. It combines a simple, responsive frontend with a lightweight Node.js backend for serving resources efficiently.",
-    "skills": ["SQLite", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
-    "source": "https://github.com/vaishnavi-parodkar/Vault-to-Learn"
-  },
-  {
     "title": "Login Registration System",
     "imageSrc": "projects/Login-Registration.png",
     "description": "A secure login and registration system built with PHP and MySQL. It allows users to create accounts, authenticate credentials, and manage access with simple database integration.",
     "skills": ["HTML", "CSS", "PHP", "SQL", "Git", "GitHub"],
     "source": "https://github.com/vaishnavi-parodkar/login-registration-php-mysql"
-  },
-  {
-    "title": "Internship Management System",
-    "imageSrc": "projects/Internship-management-system.png",
-    "description": "A web-based Internship Management System built with PHP and MySQL, designed to streamline internship operations by supporting three roles: Students, Admins, and Companies. Students can apply for internships, companies can post and manage internships, and admins can oversee the entire process.",
-    "skills": ["PHP", "HTML", "SQL", "CSS", "Git", "GitHub"],
-    "source": "https://github.com/vaishnavi-parodkar/Internship-management-system"
   },
   {
     "title": "Car Rental System",
