@@ -29,8 +29,8 @@ export const Contact = () => {
         <a href="https://leetcode.com/u/parodkarvaishnavi/" target="_blank" rel="noreferrer">
           <img src={getImageUrl("contact/leetcode.png")} alt="LeetCode" />
         </a>
-        <a href="https://www.hackerrank.com/profile/vaishanvi_1112" target="_blank" rel="noreferrer">
-          <img src={getImageUrl("contact/Hackerrank.jpeg")} alt="LeetCode" />
+        <a href="https://www.hackerrank.com/profile/vaishnaviparodk1" target="_blank" rel="noreferrer">
+          <img src={getImageUrl("contact/Hackerrank.jpeg")} alt="Hackerrank" />
         </a>
       </div>
     </footer>
