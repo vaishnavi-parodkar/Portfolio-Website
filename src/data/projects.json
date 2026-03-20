@@ -8,6 +8,22 @@
     "source": "https://github.com/vaishnavi-parodkar/TV-Shows-Website"
   },
   {
+    "title": "MediLookUp",
+    "imageSrc": "projects/MediLookUp.png",
+    "description": "MediLookup is a modern, responsive medicine information platform built to help users search, explore, and understand medications. Powered by the FDA drug database and an AI assistant, it bridges the gap between raw medical data and everyday understanding.",
+    "skills": ["ReactJS", "JavaScript", "Vite", "Tailwind CSS v4", "Groq API", "OpenFDA API","Vercel", "Git", "GitHub"],
+    "demo": "https://medilookup.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/MediLookup"
+  },
+  {
+  "title": "PDF Summarizer",
+  "imageSrc": "projects/PDFSummarizer.png",
+  "description": "A modern, responsive web application that allows users to upload PDF documents and instantly generate concise, AI-powered summaries. Built using Hugging Face's BART model, the app extracts key insights from lengthy content while preserving context, making information easier to understand and consume.",
+  "skills": ["ReactJS", "Hugging Face Transformers", "BART Model", "HTML", "CSS", "JavaScript", "Git", "GitHub"],
+  "demo": "https://pdf-summarizer-ruby.vercel.app/",
+  "source": "https://github.com/vaishnavi-parodkar/pdf-summarizer"
+},
+  {
     "title": "Parking Lot Management",
     "imageSrc": "projects/Parking-lot-management.png",
     "description": "A Smart Parking Lot Management System built using React.js that allows users to book parking slots, make payments, and manage parking sessions, while admins can monitor occupancy, manage slots, and view payment analytics.",
@@ -38,6 +54,14 @@
     "demo": "https://expense-splitter-gamma.vercel.app/",
     "source": "https://github.com/vaishnavi-parodkar/Expense-Splitter?tab=readme-ov-file"
   },
+  {
+  "title": "StudentIQAgent",
+  "imageSrc": "projects/StudentIQAgent.png",
+  "description": "An AI-powered study assistant that helps students understand concepts, generate revision notes, practice quizzes, and plan study schedules through natural conversation. Covers core subjects like DSA, DBMS, Operating Systems, Computer Networks, and Web Development with simple, step-by-step explanations.",
+  "skills": ["JavaScript", "ReactJS", "AI Integration", "API Integration", "Git", "GitHub"],
+  "demo": "https://studentiq-agent.vercel.app/",
+  "source": "https://github.com/vaishnavi-parodkar/studentiqAgent"
+},
   {
     "title": "To-do List React.js",
     "imageSrc": "projects/to-do-list.png",
