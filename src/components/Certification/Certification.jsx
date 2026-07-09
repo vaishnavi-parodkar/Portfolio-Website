@@ -5,17 +5,26 @@ import certifications from "../../data/certifications.json";
 export const Certification = () => {
   return (
     <section id="certification" className={styles.container}>
-      <h2>CERTIFICATIONS</h2>
+      <p className={`${styles.sectionLabel} reveal`}>Credentials</p>
+      <h2 className={`${styles.title} reveal`}>Certifications</h2>
       <div className={styles.certList}>
         {certifications.map((cert, index) => (
-          <div key={index} className={styles.certCard}>
-            <h3>{cert.title}</h3>
-            <p><strong>Issuer:</strong> {cert.issuer}</p>
-            <p><strong>Year:</strong> {cert.year}</p>
+          <div
+            key={index}
+            className={`${styles.certCard} reveal`}
+            style={{ transitionDelay: `${index * 60}ms` }}
+          >
+            <p className={styles.certIssuer}>{cert.issuer}</p>
+            <h3 className={styles.certTitle}>{cert.title}</h3>
+            <p className={styles.certYear}>{cert.year}</p>
             {cert.link && (
-              <a href={cert.link} target="_blank" rel="noopener noreferrer">
-                View Certificate
-              </a>
+              <a
+                href={cert.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.certLink}
+                aria-label={`View certificate: ${cert.title}`}
+              />
             )}
           </div>
         ))}

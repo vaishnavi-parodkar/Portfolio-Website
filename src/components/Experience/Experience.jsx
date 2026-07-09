@@ -1,5 +1,4 @@
 import React from "react";
-
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
@@ -8,41 +7,38 @@ import { getImageUrl } from "../../utils";
 export const Experience = () => {
   return (
     <section className={styles.container} id="experience">
-      <div className={styles.content}>
-        {/* ---- Left side: Skills ---- */}
-        <div className={styles.skillsSection}>
-          <h2 className={styles.title}>Skills</h2>
-          <div className={styles.skills}>
+      <p className={`${styles.sectionLabel} reveal`}>What I know & where I've been</p>
+      <h2 className={`${styles.title} reveal`}>Skills & Experience</h2>
+
+      <div className={styles.layout}>
+        {/* Skills */}
+        <div className="reveal">
+          <p className={styles.skillsTitle}>Tech Stack</p>
+          <div className={styles.skillsGrid}>
             {skills.map((skill, id) => (
               <div key={id} className={styles.skill}>
-                <div className={styles.skillImageContainer}>
-                  <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
-                </div>
+                <img src={getImageUrl(skill.imageSrc)} alt={skill.title} />
                 <p>{skill.title}</p>
               </div>
             ))}
           </div>
         </div>
 
-        {/* ---- Right side: Experience ---- */}
-        <div className={styles.historySection}>
-          <h2 className={styles.title}>Experience</h2>
-          <ul className={styles.history}>
-            {history.map((historyItem, id) => (
+        {/* Timeline */}
+        <div className="reveal">
+          <p className={styles.historyTitle}>Timeline</p>
+          <ul className={styles.timeline}>
+            {history.map((item, id) => (
               <li key={id} className={styles.historyItem}>
-                <img
-                  src={getImageUrl(historyItem.imageSrc)}
-                  alt={`${historyItem.organisation} Logo`}
-                />
-                <div className={styles.historyItemDetails}>
-                  <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
-                  <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
-                  <ul>
-                    {historyItem.experiences.map((experience, id) => (
-                      <li key={id}>{experience}</li>
-                    ))}
-                  </ul>
-                </div>
+                <img src={getImageUrl(item.imageSrc)} alt={item.organisation} />
+                <p className={styles.role}>{item.role}</p>
+                <p className={styles.org}>{item.organisation}</p>
+                <p className={styles.dates}>{item.startDate} – {item.endDate}</p>
+                <ul className={styles.expList}>
+                  {item.experiences.map((exp, i) => (
+                    <li key={i}>{exp}</li>
+                  ))}
+                </ul>
               </li>
             ))}
           </ul>

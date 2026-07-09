@@ -1,82 +1,146 @@
 @import "../../vars.css";
 
 .navbar {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 61px;
-  z-index: 2;
-  margin: 0 10%;
+  padding: 20px 8%;
+  z-index: 100;
+  background: rgba(8, 15, 26, 0.75);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--color-border);
+  transition: background 0.3s ease;
 }
 
 .title {
-  font-size: 30px;
-  font-weight: 600;
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 800;
   text-decoration: none;
   color: var(--color-text);
+  letter-spacing: -0.5px;
 }
 
-
-.menuBtn {
-  display: none;
+.title span {
+  color: var(--color-primary);
 }
 
 .menu {
   display: flex;
 }
 
+.menuBtn {
+  display: none;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 4px;
+}
+
+.hamburger {
+  width: 22px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.hamburger span {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: var(--color-text);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
 .menuItems {
   display: flex;
-  gap: 47px;
+  gap: 40px;
   list-style: none;
+  align-items: center;
 }
 
 .menuItems a {
-  font-size: 25px;
-  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--color-text-muted);
   text-decoration: none;
+  letter-spacing: 0.3px;
+  transition: color 0.2s ease;
+  position: relative;
+}
+
+.menuItems a::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--color-primary);
+  transition: width 0.25s ease;
+}
+
+.menuItems a:hover {
+  color: var(--color-text);
+}
+.menuItems a:hover::after {
+  width: 100%;
 }
 
 @media screen and (max-width: 830px) {
   .navbar {
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    padding: 18px 6%;
   }
 
   .menu {
     position: absolute;
     right: 0;
-    margin-right: 10%;
+    top: 0;
+    margin-right: 6%;
+    margin-top: 18px;
     flex-direction: column;
     align-items: flex-end;
-    gap: 11px;
-    z-index: 3;
+    gap: 0;
+    z-index: 110;
   }
 
   .menuBtn {
-    display: block;
-    cursor: pointer;
+    display: flex;
   }
 
   .menuItems {
     display: none;
     flex-direction: column;
-    align-items: center;
-    gap: 13px;
-    border-radius: 10px;
-    background: rgb(25, 55, 109);
-    background: linear-gradient(
-      0deg,
-      rgba(25, 55, 109, 0.2) 0%,
-      rgba(25, 55, 109, 1) 100%
-    );
-    padding: 24px 33px;
-    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    align-items: flex-start;
+    gap: 0;
+    border-radius: 14px;
+    background: rgba(20, 30, 50, 0.97);
+    border: 1px solid var(--color-border);
+    backdrop-filter: blur(20px);
+    padding: 16px 24px;
+    margin-top: 10px;
+    min-width: 160px;
+  }
+
+  .menuItems li {
+    width: 100%;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .menuItems li:last-child {
+    border-bottom: none;
   }
 
   .menuOpen {
     display: flex;
-    z-index: 1;
   }
 }
