@@ -40,9 +40,6 @@ export const Contact = () => {
           ))}
         </div>
       </div>
-      <p className={styles.footer}>
-        © 2025 Vaishnavi Parodkar · Built with React & ❤️
-      </p>
     </footer>
   );
 };
