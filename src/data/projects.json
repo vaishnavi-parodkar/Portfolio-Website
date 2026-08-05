@@ -4,7 +4,7 @@
     "imageSrc": "projects/TV-Shows-Website.png",
     "description": "Episolio is a modern, responsive web application designed to explore and discover popular TV shows. Built using the Vite framework, this project aims to provide users with an intuitive interface to browse and learn about various television series.",
     "skills": ["React", "CSS", "HTML", "JavaScript", "API", "Git", "GitHub"],
-    "demo": "https://tv-shows-website-ec7ctj8fx-vaishnavi-parodkars-projects.vercel.app/",
+    "demo": "https://tv-shows-website.vercel.app/",
     "source": "https://github.com/vaishnavi-parodkar/TV-Shows-Website"
   },
   {
@@ -43,7 +43,7 @@
     "imageSrc": "projects/Ecommerce.png",
     "description": "A responsive ecommerce front-end website built using React, HTML, CSS, and JavaScript. It showcases products, features a modern UI, and ensures a smooth browsing experience for users.",
     "skills": ["React", "CSS", "HTML", "JavaScript", "Git", "GitHub"],
-    "demo": "https://ecommerce-static-website-using-reactjs-2slhbjvmf.vercel.app/",
+    "demo": "https://ecommerce-static-website-using-reac.vercel.app/",
     "source": "https://github.com/vaishnavi-parodkar/Ecommerce-static-website-using-Reactjs"
   },
    {
