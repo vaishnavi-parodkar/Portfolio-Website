@@ -1,5 +1,19 @@
 [
-   {
+  {
+  "role": "Technical Consultant Intern",
+  "organisation": "Bodhami",
+  "startDate": "Aug 2026",
+  "endDate": "Present",
+  "summary": "Working as a Technical Consultant Intern, contributing to product analysis, business process engineering, user journey evaluation, and requirements gathering for enterprise web applications while collaborating in an Agile team.",
+  "imageSrc": "history/Bodhami.png",
+  "experiences": [
+    "Analyzed the company's products, business workflows, and technology ecosystem to understand project requirements.",
+    "Performed business context analysis, stakeholder analysis, customer needs assessment, and Quality Function Deployment (QFD) activities.",
+    "Studied ADA Compliance and DLT Platform concepts while evaluating real-world enterprise use cases and regulatory requirements.",
+    "Explored user journeys, documented business processes."
+  ]
+},
+  {
   "role": "Google Student Ambassador Intern - Campus Ambassador Program",
   "organisation": "Ping Digital Broadcast Pvt. Ltd.",
   "startDate": "Sep 2025",
