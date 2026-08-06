@@ -1,5 +1,13 @@
 [
   {
+    "title": "MediLookUp",
+    "imageSrc": "projects/MediLookUp.png",
+    "description": "MediLookup is a modern, responsive medicine information platform built to help users search, explore, and understand medications. Powered by the FDA drug database and an AI assistant, it bridges the gap between raw medical data and everyday understanding.",
+    "skills": ["ReactJS", "JavaScript", "Vite", "Tailwind CSS v4", "Groq API", "OpenFDA API","Vercel", "Git", "GitHub"],
+    "demo": "https://medilookup.vercel.app/",
+    "source": "https://github.com/vaishnavi-parodkar/MediLookup"
+  },
+  {
     "title": "TV Shows Website (Episolio)",
     "imageSrc": "projects/TV-Shows-Website.png",
     "description": "Episolio is a modern, responsive web application designed to explore and discover popular TV shows. Built using the Vite framework, this project aims to provide users with an intuitive interface to browse and learn about various television series.",
@@ -8,8 +16,8 @@
     "source": "https://github.com/vaishnavi-parodkar/TV-Shows-Website"
   },
   {
-    "title": "MediLookUp",
-    "imageSrc": "projects/MediLookUp.png",
+    "title": "Money Monitor",
+    "imageSrc": "projects/Money-monitor.png",
     "description": "MediLookup is a modern, responsive medicine information platform built to help users search, explore, and understand medications. Powered by the FDA drug database and an AI assistant, it bridges the gap between raw medical data and everyday understanding.",
     "skills": ["ReactJS", "JavaScript", "Vite", "Tailwind CSS v4", "Groq API", "OpenFDA API","Vercel", "Git", "GitHub"],
     "demo": "https://medilookup.vercel.app/",
