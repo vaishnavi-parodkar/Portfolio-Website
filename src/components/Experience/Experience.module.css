@@ -50,17 +50,17 @@
 .skillsGrid {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 16px;
 }
 
 .skill {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 100px;
-  padding: 8px 16px;
+  padding: 14px 24px;
   transition: all 0.25s ease;
 }
 .skill:hover {
@@ -70,15 +70,15 @@
 }
 
 .skill img {
-  width: 20px;
-  height: 20px;
+  width: 28px;
+  height: 28px;
   object-fit: contain;
 }
 
 .skill p {
   font-family: var(--font-body);
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 17px;
+  font-weight: 500;
   color: var(--color-text);
 }
 

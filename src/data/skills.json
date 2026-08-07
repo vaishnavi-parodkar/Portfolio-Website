@@ -32,6 +32,18 @@
     "imageSrc": "skills/MySQL.png"
   },
   {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/TailwindCSS.png"
+  },
+  {
+    "title": "REST API",
+    "imageSrc": "skills/REST_API.jpg"
+  },
+  {
     "title": "git",
     "imageSrc": "skills/Git.png"
   },
